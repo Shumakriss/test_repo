@@ -1,2 +1,2 @@
 # test_repo
-adding a line
+removing a line
